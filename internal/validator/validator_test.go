@@ -238,10 +238,10 @@ func TestValidate_Department(t *testing.T) {
 func TestValidate_MultipleErrors(t *testing.T) {
 	v := NewValidator()
 	record := &models.Record{
-		Name:       "Jo", // Muito curto
-		Email:      "email-invalido", // Email inválido
-		Age:        150, // Muito velho
-		Salary:     500, // Muito baixo
+		Name:       "Jo",                   // Muito curto
+		Email:      "email-invalido",       // Email inválido
+		Age:        150,                    // Muito velho
+		Salary:     500,                    // Muito baixo
 		Department: "DepartamentoInvalido", // Inválido
 		IsActive:   true,
 		RowNumber:  1,
@@ -266,4 +266,3 @@ func makeString(length int) string {
 	}
 	return string(b)
 }
-

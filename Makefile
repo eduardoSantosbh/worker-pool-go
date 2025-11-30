@@ -58,3 +58,4 @@ setup: ## Setup inicial do projeto
 
 all: deps test build ## Executa tudo: dependências, testes e build
 
+

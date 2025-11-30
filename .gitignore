@@ -7,7 +7,7 @@
 bin/
 dist/
 build/
-processor
+/processor
 
 # Banco de dados SQLite (não versionar bancos)
 *.db

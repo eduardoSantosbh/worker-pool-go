@@ -460,3 +460,4 @@ done
 # 3. Exportar para outro formato (exemplo)
 sqlite3 employees.db ".mode csv" ".output export.csv" "SELECT * FROM employees;"
 ```
+

@@ -351,4 +351,3 @@ func TestGetStats_EmptyDatabase(t *testing.T) {
 		t.Errorf("Expected active 0, got %d", stats["active"])
 	}
 }
-
