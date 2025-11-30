@@ -1,0 +1,99 @@
+# Binários compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+build/
+processor
+
+# Banco de dados SQLite (não versionar bancos)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+employees.db
+
+# Arquivos de teste e coverage
+*.test
+*.out
+coverage.out
+coverage.html
+*.coverprofile
+*.cover
+*.prof
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vscode-test/
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Arquivos temporários
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Dependências (se usar vendor, não versionar)
+vendor/
+
+# Arquivos de ambiente e configuração local
+.env
+.env.local
+.env.*.local
+*.env
+config.local.*
+
+# Arquivos de build
+*.a
+*.o
+
+# Arquivos de profiling
+cpu.prof
+mem.prof
+*.prof
+
+# Arquivos CSV grandes (manter apenas o exemplo)
+# Descomente se quiser ignorar CSVs grandes:
+# data/*.csv
+# !data/employees.csv
+
+# Arquivos de documentação gerados
+docs/_build/
+*.pdf
+
+# Arquivos do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini

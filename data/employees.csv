@@ -1,0 +1,22 @@
+name,email,age,salary,department,is_active,created_at
+João Silva,joao.silva@empresa.com,28,5500.00,TI,true,2024-01-15
+Maria Santos,maria.santos@empresa.com,32,6200.00,RH,true,2024-01-16
+Pedro Oliveira,pedro.oliveira@empresa.com,45,8500.00,Financeiro,true,2024-01-17
+Ana Costa,ana.costa@empresa.com,29,4800.00,Vendas,true,2024-01-18
+Carlos Souza,carlos.souza@empresa.com,38,7200.00,Marketing,true,2024-01-19
+Julia Ferreira,julia.ferreira@empresa.com,26,5100.00,TI,true,2024-01-20
+Lucas Almeida,lucas.almeida@empresa.com,35,6800.00,Operações,true,2024-01-21
+Fernanda Lima,fernanda.lima@empresa.com,42,9200.00,Jurídico,true,2024-01-22
+Ricardo Martins,ricardo.martins@empresa.com,31,5900.00,Vendas,true,2024-01-23
+Patricia Rocha,patricia.rocha@empresa.com,27,5300.00,Marketing,false,2024-01-24
+Roberto Carvalho,roberto.carvalho@empresa.com,39,7600.00,TI,true,2024-01-25
+Camila Dias,camila.dias@empresa.com,33,6500.00,RH,true,2024-01-26
+Bruno Rodrigues,bruno.rodrigues@empresa.com,40,8100.00,Financeiro,true,2024-01-27
+Larissa Gomes,larissa.gomes@empresa.com,28,5600.00,Vendas,true,2024-01-28
+Thiago Ribeiro,thiago.ribeiro@empresa.com,36,6900.00,Operações,true,2024-01-29
+Gabriela Barbosa,gabriela.barbosa@empresa.com,30,6000.00,Marketing,true,2024-01-30
+Felipe Araujo,felipe.araujo@empresa.com,44,8800.00,TI,true,2024-02-01
+Isabela Cunha,isabela.cunha@empresa.com,25,4900.00,RH,true,2024-02-02
+Marcos Lopes,marcos.lopes@empresa.com,37,7300.00,Financeiro,true,2024-02-03
+Beatriz Nunes,beatriz.nunes@empresa.com,29,5400.00,Vendas,false,2024-02-04
+
